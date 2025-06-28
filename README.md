@@ -1,16 +1,35 @@
+# Abdushakur Bashir
+
+![Profile Pic](https://avatars.githubusercontent.com/u/55839138?v=4)
+
 ## Hi there 👋
+I'm Abdushakur Bashir, your friendly neighborhood developer! I love coding and exploring new technologies. With a strong foundation in Python and a passion for web development, I enjoy working on a variety of projects that challenge me to grow and learn.
 
-<!--
-**abdushakurob/abdushakurob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 🚀
+- Python
+- JavaScript
+- PHP
+- HTML
+- CSS
+- TypeScript
 
-Here are some ideas to get you started:
+## Currently working on:🌟
+- [Clarify](https://github.com/abdushakurob/clarify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats 📊
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=abdushakurob)](https://github.com/abdushakurob)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdushakurob)](https://github.com/abdushakurob)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdushakurob)](https://github.com/abdushakurob)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdushakurob)](https://git.io/streak-stats)
+
+## Contact Me 📧
+Feel free to connect with me:
+- Email: me@abdushakur.me
+- LinkedIn: [Abdushakur Bashir](https://www.linkedin.com/in/abdushakurob)
+
+Let's collaborate and build amazing things together! 🌟
+
+----------
+
+#### Sharpening Skills, Crafting Dreams 🌈
