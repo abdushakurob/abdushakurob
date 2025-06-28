@@ -3,7 +3,7 @@
 ![Profile Pic](https://avatars.githubusercontent.com/u/55839138?v=4)
 
 ## Hi there 👋
-I'm Abdushakur Bashir, your friendly neighborhood developer! I love coding and exploring new technologies. With a strong foundation in Python and a passion for web development, I enjoy working on a variety of projects that challenge me to grow and learn.
+I'm Abdushakur Bashir, your friendly neighborhood developer! I love coding and exploring new technologies. With a strong passion for web development, I enjoy working on a variety of projects that challenge me to grow and learn.
 
 ## Skills 🚀
 - Python
