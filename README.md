@@ -18,7 +18,7 @@ I'm Abdushakur Bashir, your friendly neighborhood developer! I love coding and e
 
 
 ## GitHub Stats 📊
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=abdushakurob)](https://github.com/abdushakurob)
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=abdushakurob)](https://github.com/abdushakurob) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdushakurob)](https://github.com/abdushakurob)
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdushakurob)](https://github.com/abdushakurob)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdushakurob)](https://git.io/streak-stats)
