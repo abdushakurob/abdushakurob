@@ -1,6 +1,6 @@
 # Abdushakur Bashir
 
-![Profile Pic](https://avatars.githubusercontent.com/u/55839138?v=4)
+![Profile Pic](https://avatars.githubusercontent.com/u/71818254?v=4)
 
 ## Hi there 👋
 I'm Abdushakur Bashir, your friendly neighborhood developer! I love coding and exploring new technologies. With a strong passion for web development, I enjoy working on a variety of projects that challenge me to grow and learn.
