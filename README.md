@@ -83,8 +83,4 @@ GitHub Copilot SDK and extensibility platform at FUTMinna.
 
 ---
 
-[
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdushakurob)
-
-](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdushakurob)](https://git.io/streak-stats)
